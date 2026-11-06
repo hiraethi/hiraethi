@@ -1,0 +1,10 @@
+# Only the page and its images are published; generators, fonts and the alternative designs stay local.
+*
+!.gitignore
+!README.md
+!assets/
+assets/*
+!assets/banner.svg
+!assets/desktop.svg
+!assets/deck.webp
+!assets/building.svg
